@@ -1,4 +1,4 @@
-# 🎧 Signal Classification with Audio Features and Deep Learning
+# 🎧 Signal Classification with Audio Features and Deep Learning Technics
 
 This project focuses on the classification of audio commands using feature extraction and machine learning.  
 It applies signal processing techniques to audio data, and evaluates both traditional ML classifiers and deep learning architectures such as CNN and LSTM.
